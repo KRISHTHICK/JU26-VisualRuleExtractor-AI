@@ -1,0 +1,24 @@
+{
+  "Section": "Part A",
+  "Title": "Process All Warehouse Issued Materials",
+  "Steps": [
+    {
+      "Step": "01",
+      "Description": "Record the details of Bactrinish Unsolved (QAS152) for SAP",
+      "Fields": [
+        {
+          "Label": "Quantity (Line 1)",
+          "BoxColor": "Yellow",
+          "Value": "• .",
+          "Type": "Decimal Input Box"
+        },
+        {
+          "Label": "Batch Number (Line 1)",
+          "BoxColor": "Yellow",
+          "Value": "□□□□□□□",
+          "Type": "Alphanumeric Box"
+        }
+      ]
+    }
+  ]
+}
